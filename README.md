@@ -7,6 +7,7 @@ Because execution shouldn’t need explanation.
 ### Core Insight
 Work doesn’t fail where it starts.  
 It fails where it connects.
+
 Dependencies and integration points are where risk concentrates —  
 and where delays propagate.
 
