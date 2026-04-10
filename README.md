@@ -1,5 +1,6 @@
 # Execution-Control-Model
 “Dashboards don’t show where execution breaks—integration points do.”
+
 See further below, and how managing these integrations ar critical to reducing risks, delays and failures .....
 
 <img width="791" height="448" alt="image" src="https://github.com/user-attachments/assets/5a224836-e7f4-40d2-8778-7f5174d3c219" />
