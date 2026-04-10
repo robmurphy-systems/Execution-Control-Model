@@ -1,7 +1,7 @@
 # Execution-Control-Model
 “Dashboards don’t show where execution breaks—integration points do.”
 
-“This is where execution actually breaks—the diagram below shows how to see it early.”
+“Execution actually breaks here—the diagram below shows how to see it early.”
 
 <img width="791" height="448" alt="image" src="https://github.com/user-attachments/assets/5a224836-e7f4-40d2-8778-7f5174d3c219" />
 
