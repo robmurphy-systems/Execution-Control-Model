@@ -7,9 +7,8 @@
 
 ## Core Insight
 Teams don’t fail to execute—they fail to validate they’re executing against the same contract.
-Assumptions persist until integration—when they surface as delays, defects, or failure.
 
-Teams don’t fail to execute—they fail to validate they’re executing against the same contract.
+Assumptions persist until integration—when they surface as delays, defects, or failure.
 
 I make those contracts explicit—and continuously validate them—so execution doesn’t drift before integration.
 
