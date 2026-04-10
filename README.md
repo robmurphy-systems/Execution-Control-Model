@@ -7,6 +7,7 @@
 
 ## Core Insight
 Execution breaks when contracts between systems are assumed instead of enforced.
+
 I make those contracts explicit—and continuously validate them—so execution doesn’t drift before integration.
 
 These failures don’t show up in status—they show up at integration, when it’s too late.
