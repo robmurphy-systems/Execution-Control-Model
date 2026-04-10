@@ -19,3 +19,6 @@ A dependency assumed instead of verified
 Individually, these are minor. Under sustained load, they compound.
 
 This is where execution breaks.
+
+Execution breaks when contracts between systems are assumed instead of enforced.
+I focus on making those contracts explicit—and continuously validating them—so execution doesn’t drift before integration.
