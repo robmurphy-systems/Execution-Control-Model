@@ -1,5 +1,5 @@
 # Execution-Control-Model
-“Dashboards don’t show where execution breaks—integration points do.”
+“Dashboards don’t show where execution breaks—integration points do.” Dashboards can show Green down each deliverable.
 
 “Execution actually breaks here—the diagram below shows how to see it early.”
 
@@ -13,3 +13,5 @@ Assumptions persist until integration—when they surface as delays, defects, or
 I make those contracts explicit—and continuously validate them—so execution doesn’t drift before integration.
 
 These failures don’t show up in status—they show up at integration, when it’s too late.
+
+The physical representation does two things: (1) It enforces teams to collaborate tightly. As an example, when the development team physically sees the API development branch approaching, they double-check, sometimes triple-check that they are both clearly aligned. That doesn't happen with Dashboards.
