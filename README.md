@@ -15,5 +15,7 @@ I make those contracts explicit—and continuously validate them—so execution 
 These failures don’t show up in status—they show up at integration, when it’s too late.
 
 The physical representation does two things: 
+ 
   **(1) It enforces teams to collaborate tightly. As an example, when the development team physically sees the API development branch approaching, they double-check, sometimes triple-check that they are both clearly aligned. That doesn't happen with Dashboards.** 
+
   **(2) It provides an almost instantaneous view on how the system is going to be built and exactly where the teams are in time.**
