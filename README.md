@@ -18,4 +18,4 @@ The physical representation does two things:
  
   **(1) It enforces teams to collaborate tightly. As an example, when the development team physically sees the API development branch approaching, they double-check, sometimes triple-check that they are both clearly aligned. That doesn't happen with Dashboards.** 
 
-  **(2) It provides an almost instantaneous view on how the system is going to be built and exactly where the teams are in time.**
+  **(2) It provides an almost instantaneous view on how the system is going to be built and exactly where the teams are in time - with no words spoken.**
