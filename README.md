@@ -36,7 +36,7 @@ This creates what is effectively an operational traffic pileup across the execut
 
 Importantly, these delays are not unusual events — they are normal realities of complex delivery environments. Engineering challenges, integration issues, and rework should be expected as part of enterprise execution. The failure is often not the delay itself, but the assumption of “sunny day” schedules that do not adequately account for dependency risk, iteration cycles, and propagation effects.
 
-The Execution Control Model was designed to make these hidden dynamics visible.
+**The Execution Control Model was designed to make these hidden dynamics visible as a supplement to the Project Dashboard**
 
 Unlike traditional project tables or static status reporting, the model visualizes how execution flow, dependencies, and timing pressures interact across the broader program ecosystem. This provides leadership with a clearer operational understanding of where bottlenecks, compression risks, and cascading impacts are forming before they fully materialize downstream.
 
