@@ -18,7 +18,7 @@ The physical representation does two things:
  
 ## The Autopsy of Why Projects Go Off Track
 
-Most project reporting focuses on individual task completion dates, milestone slippage, or percentage-complete metrics. However, these views often fail to expose the true operational dynamics of complex programs: dependency propagation.
+Most project reporting focuses on individual task completion dates, milestone slippage, or percentage-complete metrics. However, these views often fail to expose the true operational dynamics of complex programs: **dependency propagation**.
 
 In large-scale enterprise initiatives, a delay in one upstream workstream rarely remains isolated. A single slipping component — whether infrastructure, software development, integration, testing, vendor delivery, or environment readiness — can trigger cascading downstream disruption across multiple teams, environments, release windows, and validation activities.
 
