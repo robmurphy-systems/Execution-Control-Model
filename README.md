@@ -37,6 +37,4 @@ sequencing conflicts
 integration readiness risk
 execution drift across the program ecosystem
 
-Its purpose is simple:
-
-Make execution dynamics visible before downstream impact multiplies across the system.
+**Its purpose is simple make hidden execution dynamics visible early enough for program teams to adapt before downstream impact, coordination pressure, and execution instability compound across the system.**
