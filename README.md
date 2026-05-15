@@ -28,7 +28,7 @@ operational disruption
 
 Traditional dashboards often mask this drift because they present workstreams as isolated reporting units rather than interconnected operational systems.
 
-The Execution Control Model exposes:
+The **Execution Control Model** exposes:
 
 dependency propagation
 downstream execution compression
