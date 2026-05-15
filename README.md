@@ -4,6 +4,8 @@
 
 Traditional status reporting can show every workstream green while hidden dependency drift quietly accumulates beneath the surface.
 
+Dashboards report status. They rarely reveal where execution is beginning to fail.
+
 Execution failure rarely begins at the point of collapse. It begins upstream—through optimistic assumptions, underestimated scope, sequencing conflicts, coordination pressure, and integration drift propagating across interconnected workstreams.
 
 The Execution Control Model was designed to make those hidden dynamics visible early.
