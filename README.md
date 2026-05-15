@@ -74,7 +74,7 @@ These disruptions are not unusual exceptions. They are normal characteristics of
 
 The failure is often not the delay itself.
 
-The failure is assuming a “sunny day” execution model that does not adequately account for dependency risk, propagation effects, coordination pressure, and execution drift across interconnected workstreams.
+Execution failure often begins with poorly estimated scope. One unrealistic component estimate can create cascading downstream impacts across dependent workstreams, making early visibility critical for understanding risk, coordinating response, and developing contingency plans before delivery begins to drift.
 
 Traditional dashboards and status tables frequently mask these dynamics because they present workstreams as isolated reporting units rather than interconnected operational systems.
 
