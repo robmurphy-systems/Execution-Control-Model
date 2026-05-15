@@ -29,12 +29,11 @@ Assumptions remain hidden until integration—where they surface as delays
 Traditional dashboards often mask this drift because they present workstreams as isolated reporting units rather than interconnected operational systems.
 
 The **Execution Control Model** exposes:
-
-dependency propagation
-downstream execution compression
-coordination instability
-sequencing conflicts
-integration readiness risk
-execution drift across the program ecosystem
+- dependency propagation
+- downstream execution compression
+- coordination instability
+- sequencing conflicts
+- integration readiness risk
+- execution drift across the program ecosystem
 
 **Its purpose is simple: make hidden execution dynamics visible early enough for program teams to adapt before downstream impact, coordination pressure, and execution instability compound across the system.**
