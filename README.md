@@ -23,9 +23,14 @@ They fail because teams unknowingly drift away from a shared execution contract.
 Assumptions remain hidden until integration—where they surface as:
 
 delays
+
 defects
+
 rework
+
 deployment instability
+
+
 operational disruption
 
 Traditional dashboards often mask this drift because they present workstreams as isolated reporting units rather than interconnected operational systems.
